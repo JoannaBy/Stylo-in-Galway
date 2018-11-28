@@ -34,7 +34,7 @@ If nothing happened - 'stylo' was not installed, look what the message that appe
 You can also try to install 'stylo' another way, e.g. from Github or from a local file. To do so look at general instruction: https://github.com/computationalstylistics/stylo
 
 ### 3. Gephi
-You should already have it installed if you followed the installation of software needed for Meliha Hadzic's workshop.   
+You should already have it installed if you followed the installation of software needed for Meliha Handzic's workshop.   
 Otherwise, go to https://gephi.org/ and download Gephi.  
 After installing it, run and check that the program opens.
 
