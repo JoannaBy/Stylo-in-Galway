@@ -44,14 +44,15 @@ For a gentle introduction we will use [A small collection of British fiction](ht
 We will also use ELTeC corpora for experimental part of the workshop, I will put the links for download here by 2nd December.
 
 ## Help
-If you have problems with any of the installation steps, please contact me before the workshop via email to joanna.byszuk@ijp.pan.pl, or at latest - come to the installation session (Wednesday, 8.30am). There will be no time for fixing software during the actual workshop.
+If you have problems with any of the installation steps, please contact me before the workshop via email to joanna.byszuk@ijp.pan.pl, or at latest - come to the installation session (Wednesday, 8.30am).  
+There will be no time for fixing software during the actual workshop.
 
 ## Program
 **Friday, 7 December 2018: “Stylometry with R”**
 
 09:00-10:30 *Getting started with stylometry*  
 10:30-11:00 Coffee break  
-11:00-12:30 *Stylometry for literary explorations* 
+11:00-12:30 *Stylometry for literary explorations*  
 12:30-13:30 Lunch break  
 13:30-15:00 *Authorship attribution*  
 15:00 Closing (for both Training School workshops)
