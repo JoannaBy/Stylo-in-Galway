@@ -41,7 +41,7 @@ After installing it, run and check that the program opens.
 ### Text corpora to download
 For a gentle introduction we will use [A small collection of British fiction](https://github.com/computationalstylistics/A_Small_Collection_of_British_Fiction). Please clone or download the folder.
   
-We will also use ELTeC corpora for experimental part of the workshop, I will put the links for download here by 2nd December.
+We will also use ELTeC corpora for experimental part of the workshop, I will put the links for download here by 3rd December evening.
 
 ## Help
 If you have problems with any of the installation steps, please contact me before the workshop via email to joanna.byszuk@ijp.pan.pl, or at latest - come to the installation session (Wednesday, 8.30am).  
