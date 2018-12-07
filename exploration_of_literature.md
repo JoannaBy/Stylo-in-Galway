@@ -22,10 +22,10 @@ Compare two pictures.
 
 ## Free practice
 ### Datasets
-You can choose either of the adjusted* ELTeC corpora:
-[ELTeC corpora for stylometry tasks](https://github.com/JoannaBy/Stylo-in-Galway/tree/master/ELTeC-corpora)
-Look at *[Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)* 11-25 slides for help.  
-Try to go through the following [exercises](https://github.com/JoannaBy/Stylo-in-Galway/blob/master/exercises.md)
+You can choose either of the adjusted* ELTeC corpora:  
+[ELTeC corpora for stylometry tasks](https://github.com/JoannaBy/Stylo-in-Galway/tree/master/ELTeC-corpora)  
+Look at *[Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)* 11-25 slides for help.   
+Try to go through the following [exercises](https://github.com/JoannaBy/Stylo-in-Galway/blob/master/exercises.md)  
 
 ## More help
 Documentation of the package ‘stylo’:
