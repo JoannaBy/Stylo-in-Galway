@@ -19,6 +19,8 @@ You should now see a window with various tabs and options.
 2. In FEATURES change MAXIMUM in MFW SETTINGS to 500. In STATISTICS change STATISTICS to Consensus Tree. Go to OUTPUT and select 'PNG'. Click OK.
 Compare two pictures.
 
+### Regex for gephi
+^[A-Za-z]*
 
 ## Free practice
 ### Datasets
